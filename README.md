@@ -1,6 +1,6 @@
 # Présentation/Presentation
 
-"Bonjour et bienvenue!
+Bonjour et bienvenue!
 
 Je m'appeller Chloé Bretnacher, alias Nuage. Diplômée d’un double master en Design Stratégique et Direction Artistique, j’ai enrichi mon parcours en explorant la cuisine et la pâtisserie en France. Dans le but de fusionner mes compétences créatives avec la technologie, j’ai récemment obtenu ma certification en Développement Web après un bootcamp intensif de neuf semaines au Wagon. Actuellement en recherche d’une alternance dans le cadre d’un nouveau cursus en Développement JavaScript React à la Wild Code School, mon objectif est de lancer ma carrière d’ici fin 2026 en créant des solutions innovantes alliant design et technologie. 💫
 
@@ -25,4 +25,4 @@ Grands: Grands is the second big project of the bootcamp. It's an AirBnb clone w
 
 
 
-Discover my design work on: https://chloebretnacher.wixsite.com/my-site-3"
+Discover my design work on: https://chloebretnacher.wixsite.com/my-site-3
