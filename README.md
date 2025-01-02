@@ -7,14 +7,14 @@ Je m'appeller Chloé Bretnacher, alias Nuage. Diplômée d’un double master en
 
 Présentation des projets épinglés: 
 
-Spark:Lors du bootcamp, mon projet de Master a été sélectionné pour être développé en petits groupes pedant deux semaines. J’ai travaillé sur une nouvelle identité visuelle, et j’ai contribué a la production de features en back-end et en front-end, comme l’animation CSS. Vous pouvez essayer l’app sur votre mobile en cliquant sur ce lien.
+Spark: Lors du bootcamp, mon projet de Master a été sélectionné pour être développé en petits groupes pedant deux semaines. J’ai travaillé sur une nouvelle identité visuelle, et j’ai contribué a la production de features en back-end et en front-end, comme l’animation CSS. Vous pouvez essayer l’app sur votre mobile en cliquant sur ce lien.
 
 Grands: Grands est le second gros projet du bootcamp. C’est un clone d’AirBnb où l’ont peut réserver des moments privilégiés avec des personnes âgées. Elle comprend toutes les fonctionnalité d’un CRUD classique: création et suppression d’activité, booking, mise à jour des activités proposé... en fonction de la géolocalisation des users.
 
 
 Welcome ! 
 
-my name is Chloé Bretnacher, alias Nuage. Graduated with a dual master’s degree in Strategic Design and Art Direction, I enriched my journey by exploring culinary arts and pastry in France. To combine my creative skills with technology, I recently earned my Web Development certification after completing an intensive nine-week bootcamp at Le Wagon. Currently seeking a work-study opportunity as part of a new JavaScript React Developer program at Wild Code School, my goal is to kickstart my career by the end of 2026, creating innovative solutions that merge design and technology. 💫
+My name is Chloé Bretnacher, alias Nuage. Graduated with a dual master’s degree in Strategic Design and Art Direction, I enriched my journey by exploring culinary arts and pastry in France. To combine my creative skills with technology, I recently earned my Web Development certification after completing an intensive nine-week bootcamp at Le Wagon. Currently seeking a work-study opportunity as part of a new JavaScript React Developer program at Wild Code School, my goal is to kickstart my career by the end of 2026, creating innovative solutions that merge design and technology. 💫
 
 
 Presentation of pinned projects: 
